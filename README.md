@@ -19,4 +19,4 @@ Cada cidadão tem seu papel e sua importância dentro deste ecossistema.
 Como o jogo é bem simples, ele mostra uma curva de aprendizado muito rápida pelos usuários, sendo bem recebido por pessoas mais distantes da tecnologia (que são as pessoas que mais precisam desse tipo de conscientização, por terem menos acesso à esse conhecimento).
 Além disso, através do desenvolvimento desta aplicação, pudemos estudar, experimentar e aplicar os conhecimentos em linguagem Java aprendidos durante as aulas de LPOO e com pesquisas na internet.
 
-![Demonstração](Video Demonstração.gif)
+![Demonstração](Cata-Lixo/Video Demonstração.gif)
