@@ -1,6 +1,6 @@
 # Cata-Lixo
 
-Projeto desenvolvido no curso de Ciência da Computação para a APS(Atividades Práticas Supervisionadas) do terceiro semstre.
+Projeto desenvolvido, com base no jogo Space Invaders do criador Tomohiro Nishikado, no curso de Ciência da Computação para a APS(Atividades Práticas Supervisionadas) do terceiro semstre.
 
 # Objetivo
 
